@@ -6,6 +6,6 @@
 
 ## Contents
 
-1. Trotta_Notes.pdf : Notes on Bayesian methods.
-1. SNe_simulated.txt : Simulated data for exercises.
-1. ADAIX_Tutorial_Exercices.pdf : Tutorial exercises.
+1. [Trotta_Notes.pdf](./Trotta_Notes.pdf) : Notes on Bayesian methods.
+1. [SNe_simulated.txt](./SNe_simulated.txt) : Simulated data for exercises.
+1. [ADAIX_Tutorial_Exercices.pdf](./ADAIX_Tutorial_Exercices.pdf) : Tutorial exercises.
